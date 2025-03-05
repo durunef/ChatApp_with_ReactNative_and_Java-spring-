@@ -1,6 +1,9 @@
 # HowUDoin - Real-time Chat Application
 
 A modern chat application built using React Native (Expo) for the frontend and Spring Boot for the backend, featuring real-time messaging, friend management, and group conversations.
+## Demo Video
+
+[Download and Watch the Demo](video.mp4)
 
 ## Tech Stack
 
@@ -202,6 +205,3 @@ For production:
    ```
 2. Follow the Expo deployment guides for publishing to app stores.
 
-## Demo Video
-
-[Download and Watch the Demo](video.mp4)
